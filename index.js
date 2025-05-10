@@ -1,3 +1,3 @@
-import two from "./src/index.js";
+import two from './src/index.js'
 
-two();
+two()
