@@ -9,5 +9,8 @@
   "author": "",
   "license": "ISC",
   "description": "",
-    "lodash": "^4.17.21"
+  "lodash": "^4.17.21",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
 }
