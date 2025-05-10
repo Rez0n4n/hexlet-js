@@ -11,6 +11,10 @@
   "description": "",
   "lodash": "^4.17.21",
   "devDependencies": {
+    "@eslint/create-config": "^1.8.2",
+    "@eslint/js": "^9.26.0",
+    "eslint": "^9.26.0",
+    "globals": "^16.1.0",
     "prettier": "^3.5.3"
   },
   "dependencies": {
